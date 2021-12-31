@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 function News(){
   return  <>
             <h1>NEWS:-</h1>
+            <h1>NEWS1:-</h1>
             <A />
           </>
 }
